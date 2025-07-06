@@ -30,6 +30,26 @@ Este proyecto implementa una **red neuronal multicapa completa desde cero** en C
 - **Comparación detallada** entre valores esperados y predicciones
 - **Workflow completo**: Input → Entrenamiento → Output → Análisis
 
+---
+
+## 📋 **Datos del Proyecto**
+
+**Tema**: Redes Neuronales 
+
+**Curso**: CS2013 Programación III
+
+**Integrante**:
+- **Adrian Montes Vargas** – **202310040** 
+  - Implementación completa de librería de tensores N-dimensionales
+  - Desarrollo de capas densas y funciones de activación (ReLU, Sigmoid)
+  - Implementación de optimizadores avanzados (SGD, Adam)
+  - Funciones de pérdida y algoritmos de entrenamiento (MSE, BCE)
+  - Sistema completo de testing, documentación y demos
+
+> *Profesor, necesito la nota 🙏 :D*
+
+---
+
 ## 🛠️ Instalación y Compilación
 
 ### 📋 Requisitos del Sistema

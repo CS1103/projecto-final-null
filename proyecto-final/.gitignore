@@ -1,0 +1,49 @@
+# Build directories
+build/
+bin/
+out/
+
+# Generated output files
+output_predictions.csv
+comparison_results.csv
+results_*.csv
+
+# IDE and editor files
+.vs/
+.vscode/
+*.vcxproj.user
+*.sln.docstates
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Debug files
+*.pdb
+*.ilk
+*.obj
+*.o
+
+# CMake cache
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Local configuration
+config.local.*
+*.local
+
+# Logs
+*.log
+logs/
